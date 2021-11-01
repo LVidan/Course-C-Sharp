@@ -1,0 +1,16 @@
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\bin\Debug\net5.0\lecture_3_task_1.exe
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\bin\Debug\net5.0\lecture_3_task_1.deps.json
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\bin\Debug\net5.0\lecture_3_task_1.runtimeconfig.json
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\bin\Debug\net5.0\lecture_3_task_1.runtimeconfig.dev.json
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\bin\Debug\net5.0\lecture_3_task_1.dll
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\bin\Debug\net5.0\ref\lecture_3_task_1.dll
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\bin\Debug\net5.0\lecture_3_task_1.pdb
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\lecture_3_task_1.csproj.AssemblyReference.cache
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\lecture_3_task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\lecture_3_task_1.AssemblyInfoInputs.cache
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\lecture_3_task_1.AssemblyInfo.cs
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\lecture_3_task_1.csproj.CoreCompileInputs.cache
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\lecture_3_task_1.dll
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\ref\lecture_3_task_1.dll
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\lecture_3_task_1.pdb
+C:\Users\vidan\Desktop\lecture_3_task_1\lecture_3_task_1\obj\Debug\net5.0\lecture_3_task_1.genruntimeconfig.cache
